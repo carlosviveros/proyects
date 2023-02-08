@@ -1,0 +1,30 @@
+{
+"products":
+    [
+        {
+            "id":0,
+            "precio":45.000,
+             "rutaImagen": "img/product-img/product-1.jpg"
+        },
+        {
+            "id":2,
+            "precio":45.000,
+             "rutaImagen": "img/product-img/product-2.jpg"
+        },
+        {
+            "id":3,
+            "precio":45.000,
+             "rutaImagen": "img/product-img/product-3.jpg"
+        },
+        {
+            "id":4,
+            "precio":45.000,
+             "rutaImagen": "img/product-img/product-4.jpg"
+        },
+        {
+            "id":5,
+            "precio":45.000,
+             "rutaImagen": "img/product-img/product-5.jpg"
+        }
+    ]
+}
